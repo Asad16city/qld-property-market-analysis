@@ -47,6 +47,7 @@ A small Australian property investment team finds potential deals, contacts owne
 7\. Which suburbs have the most pipeline activity?
 
 8\. Which Gold Coast suburbs look strongest on growth and affordability?
+9. How quickly does the team respond to new leads, and do faster responses lead to more deals?
 
 
 
